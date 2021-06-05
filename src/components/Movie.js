@@ -1,17 +1,3 @@
-//can see more about "cards" on materializeCSS.com
-//we will add a default image if there is not a image for the movies
-//we will do some inline styling
-//In JSX we use style={}.....
-//Two curly braces inside style so it will be an object
-//img src can be fond on MovieDB website and we need to add it to whatever path we get from the API data
-//We then add some javascript, we added backticks instead of quotes
-//add the image path (${props.image}) that we get from the API data
-
-
-//Add onClick for the view details button, pass an anonymous function which gets triggered when clicked
-//then add props.viewMovieInfo, pass the argument props.movieId
-//then go to movieInfo.js
-
 
 import React from 'react';
 
