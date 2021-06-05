@@ -1,13 +1,4 @@
-//create a return statement, with divs and i tag(for "go back" button)
-//add a span tag, add some styles to it
-//add onClick functionality and add props to the div so that we can go back when clicked
-//also add some styles to that div
-//Then we add the Overview and Image of that movie component
-//check if it has a image otherwise add default image just like we did before
 
-//Create another div for the information of the movie inside some <p> tags
-
-//change the date format at last
 
 import React from 'react';
 
